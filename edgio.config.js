@@ -6,7 +6,7 @@ module.exports = {
 
   // The name of the site in Edgio to which this app should be deployed.
   // name: 'my-site-name',
-
+  // Adding a comment.
   // The name of the team in Edgio to which this app should be deployed.
   // team: 'my-team-name',
 
